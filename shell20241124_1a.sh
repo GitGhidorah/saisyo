@@ -1,4 +1,4 @@
 #!/bin/bash
 # このスクリプトは"Hello, World!"を表示します。
 
-echo "Hello, World!"
+echo "Hello, World2!"
